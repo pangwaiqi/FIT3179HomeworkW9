@@ -1,6 +1,23 @@
+html,
+body {
+    background-color: #ffffff;
+}
+
 #choropleth_map {
 	top:100px;
 	bottom: 100px; 
 	left: 100px;
 	right: 100px;
+}
+
+/* Style the individual containers */
+.container {
+    flex: 1; /* Distribute available space equally */
+    padding: 10px;
+    border: 1px solid #ffffff;
+    margin: 5px;
+    text-align: center;
+    font-family: "Open Sans Regular", sans-serif;
+    color: #505050;
+    font-size: 16px;
 }
