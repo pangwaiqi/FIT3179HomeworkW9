@@ -1,158 +1,78 @@
 Region Name,Country Name,Year,Death rate per 100 000 population
-Africa,Egypt,2019,0.026639715
-Africa,Egypt,2019,0.086046131
-Africa,Mauritius,2019,2.496067164
-Africa,Mauritius,2019,14.48504178
-Africa,Seychelles,2019,0
-Africa,Seychelles,2019,0
-Asia,Armenia,2019,0.429908149
-Asia,Armenia,2019,6.504119506
-Asia,Brunei Darussalam,2019,0
-Asia,Brunei Darussalam,2019,2.327798017
-Asia,Cyprus,2019,0.858384686
-Asia,Cyprus,2019,7.842236392
-Asia,Georgia,2019,2.3146132
-Asia,Georgia,2019,16.70625302
-Asia,Israel,2019,2.79942013
-Asia,Israel,2019,9.597277376
-Asia,Japan,2019,8.057883016
-Asia,Japan,2019,20.59228497
-Asia,Kazakhstan,2019,4.545852185
-Asia,Kazakhstan,2019,27.63849599
-Asia,Kuwait,2019,0.286892747
-Asia,Kuwait,2019,1.353978697
-Asia,Kyrgyzstan,2019,3.714167665
-Asia,Kyrgyzstan,2019,12.45879654
-Asia,Lebanon,2019,0.378341518
-Asia,Lebanon,2019,1.039949057
-Asia,Malaysia,2019,0.074368762
-Asia,Malaysia,2019,0.049830569
-Asia,Maldives,2019,0
+Africa,Egypt,2019,0.112686846
+Africa,Mauritius,2019,16.981108944
+Africa,Seychelles,2019,0.000000000
+Asia,Armenia,2019,6.934027655
+Asia,Brunei,2019,2.327798017
+Asia,Cyprus,2019,8.700621078
+Asia,Georgia,2019,19.02086622
+Asia,Israel,2019,12.396697506
+Asia,Japan,2019,28.650168986
+Asia,Kazakhstan,2019,32.184348175
+Asia,Kuwait,2019,1.640871444
+Asia,Kyrgyzstan,2019,16.172964205
+Asia,Lebanon,2019,1.418290575
+Asia,Malaysia,2019,0.124199331
 Asia,Maldives,2019,3.560158132
-Asia,Mongolia,2019,2.798375386
-Asia,Mongolia,2019,23.82764458
-Asia,Oman,2019,0
+Asia,Mongolia,2019,26.626019966
 Asia,Oman,2019,0.200945739
-Asia,Philippines,2019,1.008350366
-Asia,Philippines,2019,4.530254303
-Asia,Qatar,2019,0.478971694
-Asia,Qatar,2019,1.192140889
-Asia,Republic of Korea,2019,15.70354425
-Asia,Republic of Korea,2019,44.54765393
-Asia,Singapore,2019,5.146028205
-Asia,Singapore,2019,12.90341693
-Asia,Turkey,2019,1.936004396
-Asia,Turkey,2019,7.181741357
-Asia,Thailand,2019,3.272203431
-Asia,Thailand,2019,14.16623053
-Asia,United Arab Emirates,2019,0.581913867
-Asia,United Arab Emirates,2019,0.427370023
-Asia,Uzbekistan,2019,3.865381258
-Asia,Uzbekistan,2019,8.132757257
-Central and South America,Argentina,2019,2.268946763
-Central and South America,Argentina,2019,13.87763523
-Central and South America,Argentina,2019,0
-Central and South America,Brazil,2019,2.443925405
-Central and South America,Brazil,2019,10.87793073
-Central and South America,Brazil,2019,0
-Central and South America,Chile,2019,3.243784856
-Central and South America,Chile,2019,17.4149637
-Central and South America,Colombia,2019,1.831813388
-Central and South America,Colombia,2019,9.977758047
-Central and South America,Costa Rica,2019,1.598657023
-Central and South America,Costa Rica,2019,13.13649408
-Central and South America,Ecuador,2019,2.387851827
-Central and South America,Ecuador,2019,12.33033514
-Central and South America,Guatemala,2019,1.194404159
-Central and South America,Guatemala,2019,5.906476807
-Central and South America,Guyana,2019,8.999614376
-Central and South America,Guyana,2019,35.49108374
-Central and South America,Mexico,2019,1.570293164
-Central and South America,Mexico,2019,9.107247584
-Central and South America,Mexico,2019,0
-Central and South America,Nicaragua,2019,1.535095646
-Central and South America,Nicaragua,2019,9.913335256
-Central and South America,Panama,2019,0.56020153
-Central and South America,Panama,2019,5.458725493
-Central and South America,Paraguay,2019,3.283083692
-Central and South America,Paraguay,2019,12.31481705
-Central and South America,Peru,2019,0.798876316
-Central and South America,Peru,2019,2.535234931
-Central and South America,Uruguay,2019,8.674936486
-Central and South America,Uruguay,2019,40.00726252
-Europe,Austria,2019,5.166486946
-Europe,Austria,2019,24.05508725
-Europe,Bulgaria,2019,3.612791157
-Europe,Bulgaria,2019,15.59204952
-Europe,Croatia,2019,5.481680093
-Europe,Croatia,2019,28.48756056
-Europe,Czechia,2019,4.379708591
-Europe,Czechia,2019,19.8474297
-Europe,Denmark,2019,5.372262522
-Europe,Denmark,2019,18.11052044
-Europe,Estonia,2019,6.309218101
-Europe,Estonia,2019,25.84625081
-Europe,Finland,2019,5.899951091
-Europe,Finland,2019,20.61596634
-Europe,Germany,2019,4.875218267
-Europe,Germany,2019,18.17462648
-Europe,Greece,2019,1.567637345
-Europe,Greece,2019,8.298152168
-Europe,Hungary,2019,7.544721549
-Europe,Hungary,2019,30.10240134
-Europe,Iceland,2019,3.565540395
-Europe,Iceland,2019,15.07952449
-Europe,Italy,2019,2.384514724
-Europe,Italy,2019,9.834826987
-Europe,Latvia,2019,5.732157659
-Europe,Latvia,2019,23.92967417
-Europe,Lithuania,2019,7.539388764
-Europe,Lithuania,2019,43.2587914
-Europe,Luxembourg,2019,6.043548367
-Europe,Luxembourg,2019,18.41254489
-Europe,Montenegro,2019,4.950809728
-Europe,Montenegro,2019,9.441720841
-Europe,Netherlands,2019,5.944127368
-Europe,Netherlands,2019,13.74985123
-Europe,North Macedonia,2019,3.643900087
-Europe,North Macedonia,2019,10.68777811
-Europe,Poland,2019,2.900365433
-Europe,Poland,2019,20.91246647
-Europe,Portugal,2019,4.071297678
-Europe,Portugal,2019,17.14334733
-Europe,Romania,2019,2.340485919
-Europe,Romania,2019,16.10447802
-Europe,Russian Federation,2019,4.140913575
-Europe,Russian Federation,2019,23.20573684
-Europe,Serbia,2019,7.484863834
-Europe,Serbia,2019,24.25893805
-Europe,Slovakia,2019,2.045557338
-Europe,Slovakia,2019,13.09493995
-Europe,Slovenia,2019,7.905663003
-Europe,Slovenia,2019,33.64514461
-Europe,Spain,2019,3.455288192
-Europe,Spain,2019,12.55838944
-Europe,Switzerland,2019,6.221033129
-Europe,Switzerland,2019,19.82689523
-Europe,Ukraine,2019,4.938289641
-Europe,Ukraine,2019,28.35475992
-Europe,United Kingdom of Great Britain and Northern Ireland,2019,3.512463974
-Europe,United Kingdom of Great Britain and Northern Ireland,2019,12.21065584
-North America and the Caribbean,Antigua and Barbuda,2019,0
-North America and the Caribbean,Antigua and Barbuda,2019,0
-North America and the Caribbean,Canada,2019,4.491913096
-North America and the Caribbean,Canada,2019,15.27264791
-North America and the Caribbean,Cuba,2019,4.842327384
-North America and the Caribbean,Cuba,2019,27.83956325
-North America and the Caribbean,Dominica,2019,0
-North America and the Caribbean,Dominica,2019,0
-North America and the Caribbean,Grenada,2019,0
-North America and the Caribbean,Grenada,2019,0
-North America and the Caribbean,Saint Lucia,2019,0
+Asia,Philippines,2019,5.538604669
+Asia,Qatar,2019,1.671112583
+Asia,South Korea,2019,60.25119818
+Asia,Singapore,2019,18.049445135
+Asia,Turkey,2019,9.117745753
+Asia,Thailand,2019,17.438433961
+Asia,United Arab Emirates,2019,1.00928389
+Asia,Uzbekistan,2019,11.998138515
+Central and South America,Argentina,2019,16.146581993
+Central and South America,Brazil,2019,13.321856135
+Central and South America,Chile,2019,20.658748556
+Central and South America,Colombia,2019,11.809571435
+Central and South America,Costa Rica,2019,14.735151103
+Central and South America,Ecuador,2019,14.718186967
+Central and South America,Guatemala,2019,7.100880966
+Central and South America,Guyana,2019,44.490698116
+Central and South America,Mexico,2019,10.677540748
+Central and South America,Nicaragua,2019,11.448430902
+Central and South America,Panama,2019,6.018926023
+Central and South America,Paraguay,2019,15.597900742
+Central and South America,Peru,2019,3.334111247
+Central and South America,Uruguay,2019,48.682198006
+Europe,Austria,2019,29.221574196
+Europe,Bulgaria,2019,19.204840677
+Europe,Croatia,2019,33.969240653
+Europe,Czech Republic,2019,24.227138291
+Europe,Denmark,2019,23.482782962
+Europe,Estonia,2019,32.155468912
+Europe,Finland,2019,26.515917431
+Europe,Germany,2019,23.049844747
+Europe,Greece,2019,9.865789513
+Europe,Hungary,2019,37.647122889
+Europe,Iceland,2019,18.645064885
+Europe,Italy,2019,12.219341711
+Europe,Latvia,2019,29.661831829
+Europe,Lithuania,2019,50.798180164
+Europe,Luxembourg,2019,24.456093257
+Europe,Montenegro,2019,14.392530569
+Europe,Netherlands,2019,19.693978598
+Europe,North Macedonia,2019,14.331678197
+Europe,Poland,2019,23.812831902
+Europe,Portugal,2019,21.214644009
+Europe,Romania,2019,18.444963939
+Europe,Russia,2019,27.346650414
+Europe,Serbia,2019,31.743801884
+Europe,Slovakia,2019,15.140497288
+Europe,Slovenia,2019,41.550807613
+Europe,Spain,2019,15.013677632
+Europe,Switzerland,2019,26.04792836
+Europe,Ukraine,2019,33.293049561
+Europe,United Kingdom,2019,15.723119814
+North America and the Caribbean,Antigua and Barbuda,2019,0.000000000
+North America and the Caribbean,Canada,2019,19.764561006
+North America and the Caribbean,Cuba,2019,32.681890634
+North America and the Caribbean,Dominica,2019,0.000000000
+North America and the Caribbean,Grenada,2019,0.000000000
 North America and the Caribbean,Saint Lucia,2019,16.43234012
-North America and the Caribbean,Saint Vincent and the Grenadines,2019,0
-North America and the Caribbean,Saint Vincent and the Grenadines,2019,0
-North America and the Caribbean,United States of America,2019,5.605610968
-North America and the Caribbean,United States of America,2019,23.80932871
-Oceania,Australia,2019,6.090707852
-Oceania,Australia,2019,19.51069364
+North America and the Caribbean,Saint Vincent and the Grenadines,2019,0.000000000
+North America and the Caribbean,United States,2019,29.414939678
+Oceania,Australia,2019,25.601401492
